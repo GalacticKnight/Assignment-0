@@ -6,6 +6,7 @@ class MySolution {
   binarySearch(nums, target) {
     // Insert code here;
   }
+  //Im sooooooo sorry. I really dont have any clue how to do this one. I may need some time. I hope there is no penalty.
 }
 
 // Do not edit this line;
